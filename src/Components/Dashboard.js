@@ -7,7 +7,7 @@ function Dashboard() {
    const history =useHistory();
   return (
     <Base
-    tittle={'WELCOME TO THE OUR FAMILY'}
+    tittle={'WELCOME TO OUR FAMILY'}
     >
         <div className='te-st'>
             <div className='teachers'>
